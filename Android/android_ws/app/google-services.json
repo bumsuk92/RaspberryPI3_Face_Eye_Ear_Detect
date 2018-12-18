@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "843383125930",
+    "firebase_url": "https://yoramg-b8316.firebaseio.com",
+    "project_id": "yoramg-b8316",
+    "storage_bucket": "yoramg-b8316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843383125930:android:05a13e88b2a5acf6",
+        "android_client_info": {
+          "package_name": "multi.yoramg.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843383125930-0nnjkvism354aonnbid57lmrqv0a8qot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAow9CUdEhlQ2Z4yxOzfFAxToDxKM1N0WQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
